@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="200" viewBox="0 0 1100 200">
+  <rect width="1100" height="200" fill="#F4F0E8"/>
+  <rect x="0" y="0" width="14" height="200" fill="#1A1A1A"/>
+  <text x="56" y="52" fill="#5C564C" font-family="Consolas, monospace" font-size="13">WIN / INNOCAMP / INNOPOLIS / 2026</text>
+  <text x="56" y="100" fill="#1A1A1A" font-family="Georgia, serif" font-size="36" font-weight="700">CyberBook</text>
+  <text x="56" y="138" fill="#5C564C" font-family="Georgia, serif" font-size="18">1st place / case for MTS / cybersecurity education product</text>
+  <text x="56" y="172" fill="#7A7368" font-family="Consolas, monospace" font-size="13">phaeton-oq/CyberBook</text>
+</svg>
