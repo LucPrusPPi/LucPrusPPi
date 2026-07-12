@@ -1,7 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="140" viewBox="0 0 1100 140">
-  <rect width="1100" height="140" fill="#F4F0E8"/>
-  <rect x="0" y="0" width="14" height="140" fill="#1A1A1A"/>
-  <text x="56" y="48" fill="#1A1A1A" font-family="Georgia, serif" font-size="22" font-weight="700">How I work</text>
-  <text x="56" y="84" fill="#1A1A1A" font-family="Georgia, serif" font-size="17">Quiet reliability over loud demos. If it has to run overnight,</text>
-  <text x="56" y="112" fill="#5C564C" font-family="Georgia, serif" font-size="17">I want logs, recovery, and an honest surface for the user.</text>
-</svg>

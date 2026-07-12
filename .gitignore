@@ -1,0 +1,8 @@
+﻿# only page.png is published in README
+assets/*.svg
+assets/win.png
+assets/_*
+assets/*-raw.png
+OBSERVATIONS.md
+.DS_Store
+Thumbs.db

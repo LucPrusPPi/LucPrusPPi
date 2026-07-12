@@ -1,7 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="140" viewBox="0 0 1100 140">
-  <rect width="1100" height="140" fill="#F4F0E8"/>
-  <rect x="0" y="0" width="14" height="140" fill="#1A1A1A"/>
-  <text x="56" y="48" fill="#1A1A1A" font-family="Georgia, serif" font-size="22" font-weight="700">Who I am</text>
-  <text x="56" y="84" fill="#1A1A1A" font-family="Georgia, serif" font-size="17">I am LucPrus (Sergey Tomilov). I care about systems that survive outside a demo:</text>
-  <text x="56" y="112" fill="#5C564C" font-family="Georgia, serif" font-size="17">native tools, automation, products people actually open again.</text>
-</svg>
