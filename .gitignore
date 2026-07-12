@@ -1,8 +1,13 @@
-﻿# only page.png is published in README
-assets/*.svg
-assets/win.png
+﻿# source / temp
 assets/_*
 assets/*-raw.png
+assets/*.svg
+assets/win.png
 OBSERVATIONS.md
 .DS_Store
 Thumbs.db
+
+# keep published art:
+# assets/page-light.png
+# assets/page-dark.png
+# assets/page.png (light fallback copy)
