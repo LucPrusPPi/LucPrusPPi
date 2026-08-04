@@ -58,6 +58,6 @@ Three years in services, 3 015 closed deals, 5.0 average rating across
 Not development work, but the history is verifiable: real money, real
 deadlines, 2 050 buyers.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LucPrusPPi&show_icons=true&hide_border=true&hide_title=true&theme=transparent&hide=issues" alt="stats">
-</p>
+Most of the commit history here is private, so the contribution graph says
+little. The portfolio and the reviews with amounts and dates are at
+[dev.doubleluc.icu](https://dev.doubleluc.icu).
