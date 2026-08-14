@@ -1,4 +1,4 @@
-<h1 align="center">luc.dev</h1>
+<h1 align="center">luc_dev</h1>
 
 <p align="center">
   Systems and backend developer.<br>
