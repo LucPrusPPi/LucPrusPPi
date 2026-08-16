@@ -53,7 +53,7 @@ show, and explain the decisions behind them.
 
 ### Track record
 
-* **🏆 Innopolis Hackathon 2026 Winner:** First place in cybersecurity/development track.
+* **🏆 Innopolis Hackathon 2026 Winner:** First place in cybersecurity/development case by MTS.
 * **Proven commercial history:** Three years in services, 3 015 closed deals, 2 050 buyers.
 * **5.0 average rating** across [two](https://funpay.com/users/10668394/) [profiles](https://funpay.com/users/7461860/).
 
