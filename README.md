@@ -44,7 +44,7 @@
 |---|---|---|
 | [vecasm](https://github.com/LucPrusPPi/vecasm) | C, NASM | Vector kernels in assembly with runtime dispatch: scalar, AVX2, AVX-512, Ice Lake. One build adapts to the CPU it runs on. |
 | [twitchkit](https://github.com/LucPrusPPi/twitchkit) | Go | Toolkit for Twitch Drops farmers. GraphQL client, PubSub subscriptions, embeddable through the C ABI. |
-| [CyberBook](https://github.com/phaeton-oq/CyberBook) | Python | Cybersecurity assistant. Built at the Innocamp hackathon together with MTS, took first place. |
+| [CyberBook](https://github.com/phaeton-oq/CyberBook) | Python | Cybersecurity assistant. Built at the Innocamp hackathon together with MTS case, took first place. |
 | [EasySlicer](https://github.com/LucPrusPPi/EasySlicer) | Python | Block based text field slicer on PyQt6. |
 | [PandaBook](https://github.com/phaeton-oq/PandaBook) | Python | Diet planner: ration calculation, product and history tracking. |
 
@@ -53,10 +53,13 @@ show, and explain the decisions behind them.
 
 ### Track record
 
-Three years in services, 3 015 closed deals, 5.0 average rating across
-[two](https://funpay.com/users/10668394/) [profiles](https://funpay.com/users/7461860/).
-Not development work, but the history is verifiable: real money, real
-deadlines, 2 050 buyers.
+### Track record
+
+* **🏆 InnoPolis Hackathon 2026 Winner** — First place in cybersecurity/development track.
+* **Proven commercial history:** Three years in services, 3 015 closed deals, 2 050 buyers.
+* **5.0 average rating** across [two](https://funpay.com/users/10668394/) [profiles](https://funpay.com/users/7461860/).
+
+Not development work, but the history is verifiable: real money, real deadlines.
 
 Most of the commit history here is private, so the contribution graph says
 little. The portfolio and the reviews with amounts and dates are at
